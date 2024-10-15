@@ -5,5 +5,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ## Solution Approach
 * Vue.js (Composition API, Single File Components, Internal CSS)
 
-## Solution Screenshot
-![Result](/result/result.png?raw=true "Result")
+## Solution Screenshots
+![Result Screen 1](/result/result_screen_1.png?raw=true "Result Screen 1")
+![Result Screen 2](/result/result_screen_2.png?raw=true "Result Screen 2")
